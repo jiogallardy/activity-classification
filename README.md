@@ -4,8 +4,8 @@ The work presented here is about two years worth, a culmination researching on t
 
 ![Graph 1](https://github.com/jiogallardy/activity-classification/blob/main/predictedVsTrue.png "matrix")
 
-![Graph 2](https://github.com/jiogallardy/activity-classification/blob/main/rocCurve.png"matrix")
+![Graph 2](https://github.com/jiogallardy/activity-classification/blob/main/rocCurve.png "matrix")
 
 
-![Graph 3](https://github.com/jiogallardy/activity-classification/blob/main/pairplot.png"matrix")
+![Graph 3](https://github.com/jiogallardy/activity-classification/blob/main/pairplot.png "matrix")
 
